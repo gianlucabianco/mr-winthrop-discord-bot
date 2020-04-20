@@ -1,0 +1,24 @@
+{
+  "name": "mr.winthrop",
+  "version": "1.0.0",
+  "description": "An humble butler at your VTES discord service.",
+  "main": "bot.js",
+  "dependencies": {
+    "bufferutil": "^4.0.1",
+    "date-fns": "^2.12.0",
+    "discord.io": "^2.5.3",
+    "discord.js": "^12.1.1",
+    "dotenv": "^8.2.0",
+    "erlpack": "github:discordapp/erlpack",
+    "utf-8-validate": "^5.0.2",
+    "winston": "^3.2.1",
+    "zlib-sync": "^0.1.6"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Gianluca Bianco - https://gianlucabianco.dev/",
+  "license": "ISC"
+}
