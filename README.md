@@ -1,7 +1,7 @@
 # mr.winthrop
 
 > An humble butler at your VTES discord service.
-> (Discord Bot)
+> (WIP Discord Bot)
 
 ## WANNABE FEATS:
 ``` bash
